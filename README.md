@@ -33,7 +33,7 @@
 
 ## 📫 How to Reach Me
 - Email: sohamm16102004@gmail.com
-- LinkedIn: https://www.linkedin.com/in/soham-musalgi
+- LinkedIn: https://www.linkedin.com/in/soham-musalgi-861296251/
 
 ## 🤝 Let’s Connect!
 I'm open to collaborations, internships, and discussions on software development, web applications, data visualization, and more. Feel free to reach out!
