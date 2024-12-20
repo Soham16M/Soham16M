@@ -32,7 +32,7 @@
 - 🏗️ **Craftify** - A platform for construction supply procurement.
 
 ## 📫 How to Reach Me
-- Email: sohamm16102004@gmail.com
+- Email: musalgisoham2004@gmail.com
 - LinkedIn: https://www.linkedin.com/in/soham-musalgi-861296251/
 
 ## 🤝 Let’s Connect!
